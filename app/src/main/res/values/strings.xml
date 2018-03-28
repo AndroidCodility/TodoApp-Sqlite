@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TODO App</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_todo_title">New Todo</string>
+    <string name="lbl_edit_todo_title">Edit Todo</string>
+    <string name="hint_enter_note">Enter your todo!</string>
+    <string name="about">About</string>
+    <string name="about_info">TodoApp is the easiest way to get stuff done. Whether you’re planning a holiday, sharing a shopping list with a partner or managing multiple work projects, TodoApp is here to help you tick off all your personal and professional to-dos.
+    \n\nOrganize and share your to-do, work, grocery, movies and household lists. No matter what you’re planning, how big or small the task may be, TodoApp makes it super easy to get stuff done.
+    \n\nTodoApp has become my digital brain for juggling different aspects of my job. This makes the busyness and craziness feel so much simpler.</string>
+</resources>
